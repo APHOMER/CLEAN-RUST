@@ -14,7 +14,7 @@ fn main() {
     // println!("Value of _r: {}", _r);
 }
 
-STRUCT: A data structure that allows you to group multiple fields together under one name.
+// STRUCT: A data structure that allows you to group multiple fields together under one name.
 
 fn main() {
     let mut account: BankAccount = BankAccount {
