@@ -1,0 +1,1 @@
+C:\Users\APHOMER\Desktop\RUST-LANG\PURE-RUST\rustHello\helloProject\_14ErrorHandling\target\debug\_14ErrorHandling.exe: C:\Users\APHOMER\Desktop\RUST-LANG\PURE-RUST\rustHello\helloProject\_14ErrorHandling\src\main.rs
