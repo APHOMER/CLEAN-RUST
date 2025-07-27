@@ -15,7 +15,7 @@ fn calc_len(s: &String) -> usize {
 }
 
 
-2. THERE CAN ONLY BE ONE OWNER AT A TIME.
+// 2. THERE CAN ONLY BE ONE OWNER AT A TIME.
 
 fn main() {
     let s1 = String::from("MERCY");
