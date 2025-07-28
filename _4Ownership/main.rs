@@ -25,7 +25,7 @@ fn main() {
     println!("{}", s2);
 }
 
-3. WHEN THE OWNER GOES OUT OF SCOPE, THE VALUE WILL BE DROPPED.
+// 3. WHEN THE OWNER GOES OUT OF SCOPE, THE VALUE WILL BE DROPPED.
 
 fn main () {
     let s1 = String::from("APHO");
